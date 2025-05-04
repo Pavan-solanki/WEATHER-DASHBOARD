@@ -1,6 +1,11 @@
-# React weather app :sunny:
+# Weather Dashboard
+Company: CODTECH IT SOLUTIONS
+NAME: PAVAN SOLANKI
+INTERN ID : CT04DA823
+DOMAIN : REACT.JS WEB DEVELOPMENT
+DURATION : 4 WEEKS
+MENTOR : NEELA SANTOSH 
 
-<h3>Install 💻</h3>
-<code>npm install</code>/
-<code>npm run dev</code>
+OUTPUT:
 
+![Screenshot 2025-04-11 102346](https://github.com/user-attachments/assets/968b3b04-7736-4710-8af0-f2ecdeaa03d6)
